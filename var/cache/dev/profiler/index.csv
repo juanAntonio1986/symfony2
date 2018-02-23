@@ -1,0 +1,9 @@
+110da4,::1,GET,http://localhost/NetBeansProjects/Symfony/web/app_dev.php/publicWeb,1519313778,,301
+c36d9a,::1,GET,http://localhost/NetBeansProjects/Symfony/web/app_dev.php/publicWeb/,1519313778,,200
+3b90a4,::1,GET,http://localhost/NetBeansProjects/Symfony/web/app_dev.php/publicWeb/articles,1519314201,ed5339,200
+ed5339,::1,GET,http://localhost/NetBeansProjects/Symfony/web/app_dev.php/publicWeb/articles,1519314201,,404
+54bd2d,::1,GET,http://localhost/NetBeansProjects/Symfony/web/app_dev.php/publicWeb/articles,1519314228,,200
+0a41c5,::1,GET,http://localhost/NetBeansProjects/Symfony/web/app_dev.php/publicWeb/articles,1519314243,06bdb8,200
+06bdb8,::1,GET,http://localhost/NetBeansProjects/Symfony/web/app_dev.php/publicWeb/articles,1519314243,,500
+479a77,::1,GET,http://localhost/NetBeansProjects/Symfony/web/app_dev.php/publicWeb/articles,1519314251,,200
+9328eb,::1,GET,http://localhost/NetBeansProjects/Symfony/web/app_dev.php/publicWeb/articles,1519314314,,200

@@ -1,0 +1,7 @@
+vallbonaweb:
+    resource: "@VallbonawebBundle/Resources/config/routing.yml"
+    prefix:   /publicWeb
+
+app:
+    resource: '@AppBundle/Controller/'
+    type: annotation
